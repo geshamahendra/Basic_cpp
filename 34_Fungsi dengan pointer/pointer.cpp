@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// fungsi pointer tidak membutuhkan int main(), melainkan void
+// fungsi pointer tidak membutuhkan int main() diawal, melainkan void
 
 void fungsi(int *);
 void kuadrat(int *);

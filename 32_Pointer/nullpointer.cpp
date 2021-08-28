@@ -12,7 +12,7 @@ int main()
     int *aPtr = nullptr;
 
     //masukkan nilai a
-    aPtr = &a; 
+    //aPtr = &a; 
 
     // int a mempunyai nilai dan address (alamat)
 
